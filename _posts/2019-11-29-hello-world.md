@@ -5,7 +5,7 @@ author: sude0070
 post_excerpt: ""
 layout: post
 permalink: >
-  https://swarah.azurewebsites.net/2019/11/29/hello-world/
+  http://swarah.azurewebsites.net/2019/11/29/hello-world/
 published: true
 post_date: 2019-11-29 11:42:39
 ---

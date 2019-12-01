@@ -5,7 +5,7 @@ author: sude0070
 post_excerpt: ""
 layout: page
 permalink: >
-  https://swarah.azurewebsites.net/sample-page/
+  http://swarah.azurewebsites.net/sample-page/
 published: true
 post_date: 2019-11-29 11:42:39
 ---
