@@ -5,9 +5,9 @@ author: sude0070
 post_excerpt: ""
 layout: page
 permalink: >
-  http://swarah.azurewebsites.net/sample-page/
+  http://swarah1.azurewebsites.net/index.php/sample-page/
 published: true
-post_date: 2019-11-29 11:42:39
+post_date: 2019-12-10 15:38:28
 ---
 <!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -26,5 +26,5 @@ post_date: 2019-11-29 11:42:39
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://swarah.azurewebsites.net/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="http://swarah1.azurewebsites.net/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->
