@@ -10,11 +10,11 @@ published: true
 post_date: 2019-12-16 19:36:42
 ---
 <!-- wp:heading -->
-<h2>Soups</h2>
+<h2>Soups [products_table category="285" columns="image,title,description,tags,add-to-cart" show_quantity=true]</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>[products_table category="285" columns="image,title,description,tags,add-to-cart" show_quantity=true]</p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
