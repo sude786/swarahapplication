@@ -9,4 +9,3 @@ permalink: >
 published: true
 post_date: 2019-12-16 19:36:42
 ---
-<!-- wp:woocommerce/product-category {"categories":[27,24,25,23,22]} /-->
