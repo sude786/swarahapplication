@@ -9,17 +9,19 @@ permalink: >
 published: true
 post_date: 2019-12-16 19:36:42
 ---
-<!-- wp:heading -->
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:heading -->
 <h2>Soups </h2>
-<!-- /wp:heading -->
+<!-- /wp:heading --></div></div>
+<!-- /wp:group -->
 
-<!-- wp:woocommerce/product-category {"categories":[22]} /-->
+<!-- wp:woocommerce/product-category {"categories":[22],"align":"wide"} /-->
 
 <!-- wp:heading -->
 <h2>Side Dishes</h2>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/product-category {"categories":[23]} /-->
+<!-- wp:woocommerce/product-category {"categories":[23],"align":"wide"} /-->
 
 <!-- wp:heading -->
 <h2>Salads</h2>
@@ -31,7 +33,7 @@ post_date: 2019-12-16 19:36:42
 <h2>Main Dishes</h2>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/product-category {"categories":[24]} /-->
+<!-- wp:woocommerce/product-category {"categories":[24],"align":"wide"} /-->
 
 <!-- wp:heading -->
 <h2>Burgers</h2>
@@ -43,4 +45,4 @@ post_date: 2019-12-16 19:36:42
 <h2>Deserts</h2>
 <!-- /wp:heading -->
 
-<!-- wp:woocommerce/product-category {"categories":[27]} /-->
+<!-- wp:woocommerce/product-category {"categories":[27],"align":"wide"} /-->
