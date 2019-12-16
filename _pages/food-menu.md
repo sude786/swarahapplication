@@ -13,6 +13,10 @@ post_date: 2019-12-16 19:36:42
 <h2>Soups</h2>
 <!-- /wp:heading -->
 
+<!-- wp:paragraph -->
+<p>[products_table category="285" columns="image,title,description,tags,add-to-cart" show_quantity=true]</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading -->
 <h2>Side Dishes</h2>
 <!-- /wp:heading -->
