@@ -35,10 +35,6 @@ post_date: 2019-12-16 19:36:42
 
 <!-- wp:woocommerce/product-category {"categories":[24],"align":"wide"} /-->
 
-<!-- wp:heading -->
-<h2>Burgers</h2>
-<!-- /wp:heading -->
-
 <!-- wp:woocommerce/product-category {"categories":[26]} /-->
 
 <!-- wp:heading -->
