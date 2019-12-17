@@ -24,7 +24,7 @@ post_date: 2019-12-16 14:09:20
 			<h2>$9</h2>		
 			<figure><a href="http://swarah1.azurewebsites.net/product/salmon/ "><img width="275" height="169" src="/wp-content/uploads/2019/12/jennifer-pallian-200440-unsplash-e1576592337362.jpg" alt="" /></a></figure><h3><a href="http://swarah1.azurewebsites.net/product/salmon/ ">salmon</a></h3><p>salmon, spinach, lemons</p>		
 			<h2>$19</h2>		
-			<figure><img width="274" height="169" src="/wp-content/uploads/2019/12/erol-ahmed-80092-unsplash-e1576545327874.jpg" alt="" /></figure><h3>Blueberry pie</h3><p>blueberry, strawberry, grape, yogurt, graham crackers</p>		
+			<figure><a href="http://swarah1.azurewebsites.net/product/blueberry-pie/ "><img width="274" height="169" src="/wp-content/uploads/2019/12/erol-ahmed-80092-unsplash-e1576545327874.jpg" alt="" /></a></figure><h3><a href="http://swarah1.azurewebsites.net/product/blueberry-pie/ ">Blueberry pie</a></h3><p>blueberry, strawberry, grape, yogurt, graham crackers</p>		
 			<h2>$9</h2>		
 			<figure><img width="275" height="169" src="/wp-content/uploads/2019/12/joseph-gonzalez-80541-unsplash-e1576592277525.jpg" alt="" /></figure><h3>belgian waffle</h3><p>waffle, strawberry, whipped cream, blueberry</p>		
 			<h2>$12</h2>		
