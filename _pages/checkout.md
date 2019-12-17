@@ -5,7 +5,7 @@ author: sude0070
 post_excerpt: ""
 layout: page
 permalink: >
-  http://swarah1.azurewebsites.net/checkout/
+  https://swarah1.azurewebsites.net/checkout/
 published: true
 post_date: 2019-12-16 18:45:16
 ---
