@@ -30,6 +30,6 @@ post_date: 2019-12-16 14:09:20
 			<h2>$12</h2>		
 			<h2>reserve your seat.</h2>		
 			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" aria-label="London Eye, London, United Kingdom"></iframe>		
-			<h2>address  lambeth, london se1 7pb, uk</h2>		
+			<h2>address  Clongriffin, Dublin 13, ie</h2>		
 			<h2>telephone  +1 861 555 5555</h2>		
 			<h2>email  info@resturant.com</h2>
