@@ -5,7 +5,7 @@ author: sude0070
 post_excerpt: ""
 layout: page
 permalink: >
-  https://swarah1.azurewebsites.net/privacy-policy/
+  http://swarah1.azurewebsites.net/privacy-policy/
 published: true
 post_date: 2019-12-22 15:19:17
 ---
